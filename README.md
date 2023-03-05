@@ -7,3 +7,9 @@ Questions :
 QUESTION 1: Did the scholarship of patients helped in showing up to their appointments?
 QUESTION 2: between children, women and men, who attended the most their appointments?
 QUESTION 3: Did age impact appointments?
+
+
+First, we found an age with a negative value. I removed to use a more correct dataset , because for me, it's surely an error . We saw that women are the most to not miss their appointment, then children and finally men. This can be explained by many others social life parameters. Also, having a scholarship or no dontt impact in the appointments. Only few peoples have scholarship, so it's understandable. Age also doesnt impact in the appointments, almost same mean age, oldest age and others parameters between those who showed up and not. We can do more with this dataset . For example, we can categorize the age as i did with the column category. So we could see clearly how ages impact on appointments, also associate it with another features. Also we can check it for each neighbourhood.
+
+
+For a better analysis, if we could have the real distance between the neighbourhood and the hospital, it may helps us to understand more if the patients showed up or not
