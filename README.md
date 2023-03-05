@@ -6,8 +6,11 @@ First, i  did the data wrangling by loading my dataset, and then i tried to see 
 
 
 Questions :
+
 QUESTION 1: Did the scholarship of patients helped in showing up to their appointments?
+
 QUESTION 2: between children, women and men, who attended the most their appointments?
+
 QUESTION 3: Did age impact appointments?
 
 
